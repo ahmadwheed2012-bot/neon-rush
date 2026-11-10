@@ -1,0 +1,17 @@
+{
+  "name": "Neon Rush",
+  "short_name": "NeonRush",
+  "description": "A free 3D arcade racing game with nitro boosts, coin collection, and highway dodging.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#09121d",
+  "theme_color": "#09121d",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

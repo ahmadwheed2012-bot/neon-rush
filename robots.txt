@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahmadwheed2012-bot.github.io/neon-rush/sitemap.xml
